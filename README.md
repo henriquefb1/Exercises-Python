@@ -1,2 +1,2 @@
 # Exercises Python
- Python Exercises for practice (SOLVED) as taught by Gustave Guanabara.
+ Python Exercises for practice (SOLVED) as taught by Gustavo Guanabara.
