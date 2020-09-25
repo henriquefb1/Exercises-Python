@@ -25,6 +25,6 @@ Lista demarcada:
   * NL
 
 Tarefas:
-[x] Estudar
-[x] Trabalhar
-[] Correr
+- [x] Estudar
+- [x] Trabalhar
+- [] Correr
