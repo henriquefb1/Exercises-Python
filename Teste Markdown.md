@@ -28,3 +28,9 @@ Tarefas:
 - [x] Estudar
 - [x] Trabalhar
 - [] Correr
+
+Num | Nome | Nota
+---|---|---|
+1|**Gustavo**|10
+2|**Henrique**|10
+3|**Pedro**|5
