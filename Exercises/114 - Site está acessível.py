@@ -5,7 +5,7 @@ import urllib.request
 
 def accesssite(msg):
     try:
-        pudim = urllib.request.urlopen(msg)
+        _ = urllib.request.urlopen(msg)
     except:
         print('Não foi possível fazer conexão com o site Pudim no momento.')
     else:
